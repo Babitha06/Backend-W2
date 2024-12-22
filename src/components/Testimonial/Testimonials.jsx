@@ -36,11 +36,8 @@ const Testimonials = () => {
   return (
  <Slider {...settings}>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>You can have a travel blog, a tour booking site, a house rental, etc. Each of these websites can have its own needs. One will need great gallery options.
+</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava01} className='w-25 h-25 rounded-2' alt="" />
@@ -51,11 +48,8 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>You can have a travel blog, a tour booking site, a house rental, etc. Each of these websites can have its own needs. One will need great gallery options.
+</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava02} className='w-25 h-25 rounded-2' alt="" />
@@ -66,11 +60,8 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>You can have a travel blog, a tour booking site, a house rental, etc. Each of these websites can have its own needs. One will need great gallery options.
+</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
@@ -81,11 +72,8 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>You can have a travel blog, a tour booking site, a house rental, etc. Each of these websites can have its own needs. One will need great gallery options.
+</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
@@ -96,11 +84,8 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>You can have a travel blog, a tour booking site, a house rental, etc. Each of these websites can have its own needs. One will need great gallery options.
+</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava02} className='w-25 h-25 rounded-2' alt="" />

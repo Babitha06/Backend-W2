@@ -10,17 +10,17 @@ const servicesData =[
     {
         imgUrl :weatherImg,
         title : 'Calculate Weather',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        desc: 'We give our best Services',
     },
     {
         imgUrl :guideImg,
         title : 'Best Tour Guide',
-        desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        desc : 'We give our best Services',
     },
     {
         imgUrl :customizationImg,
         title : 'Customization',
-        desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        desc : 'We give our best Services',
     },
 ]
 const ServiceList = () => {

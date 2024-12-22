@@ -22,12 +22,12 @@ const Home = () => {
         <Col  lg="6">
         <div className="hero__content">
           <div className="hero__subtitle d-flex align-items-center">
-            <Subtitle subtitle={'Know Before You Go'}/>
+            <Subtitle subtitle={'Go Explore....'}/>
             <img src={worldImg} alt="" />
           </div>
-          <h1>Traveling opens the door to creating <span className="highlight">
-            memories</span></h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi ut voluptatum quisquam error facilis eum rerum, ratione accusamus molestias fugiat consequatur repellendus pariatur numquam ea dolor! Eligendi sunt ab nostrum?</p>
+          <h1>Pack Your Bags!!! <span className="highlight">
+           The World is waiting for You</span></h1>
+            <p>Explore the world, one adventure at a time, with our curated selection of unforgettable travel experiences.Design your perfect escape, from relaxing gateways to thrilling expeditions, and discover hidden gems across the globe.</p>
         </div>
         </Col>
         <Col lg="2">
